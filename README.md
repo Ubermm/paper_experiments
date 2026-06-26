@@ -4,7 +4,7 @@
 
 This repository contains all code to reproduce the experiments in:
 
-> **Beyond Coverage: Task-Specific Moment Preservation for Optimal Coreset Selection**
+> **Task-Moment Mismatch: Diagnosing Failures of Coverage-Based Methods on Heavy-Tailed Distributions in Coreset Selection**
 
 ---
 
